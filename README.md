@@ -1,2 +1,2 @@
 # pyjob-portal
-This is an job portal using python django
+This is a job portal using python django
