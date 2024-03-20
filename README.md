@@ -1,2 +1,2 @@
-# pyjob-portal
-This is a job portal using python django
+# My Pro-folio
+This is a web portfolio made by yours truly
