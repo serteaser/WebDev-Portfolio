@@ -91,3 +91,9 @@ body {
     background-color: #0056b3;
   }
   
+  footer {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: slategray;
+  }
